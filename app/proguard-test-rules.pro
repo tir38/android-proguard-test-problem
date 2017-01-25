@@ -1,0 +1,8 @@
+-dontwarn junit.runner.**
+-dontwarn junit.framework.**
+-dontwarn org.jmock.core.**
+-dontwarn org.easymock.**
+-dontwarn org.easymock.**
+-dontwarn java.beans.**
+-dontwarn java.lang.**
+-dontwarn javax.lang.**
