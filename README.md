@@ -1,4 +1,4 @@
-#Android Studio / Gradle / ProGuard not removing classes from test apk
+# Android Studio / Gradle / ProGuard not removing classes from test apk
 
 Proguard is not stripping methods/classes from our test apk.
 
